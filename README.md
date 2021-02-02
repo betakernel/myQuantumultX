@@ -1,7 +1,4 @@
-# myQuantumultX
 本仓库不再维护
-
-    
 
 免责声明:
 
