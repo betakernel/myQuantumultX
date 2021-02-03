@@ -2,7 +2,7 @@
   "name": "自己整理的task",
   "description": "MY Task！",
   "task": [
-" 0 12 * * * https://raw.githubusercontent.com/chavyleung/scripts/master/box/switcher/box.switcher.js, tag=Boxjs切换会话,img-url=https://raw.githubusercontent.com/Orz-3/task/master/box.png, enabled=false",
+" 0 12 * * * https://raw.githubusercontent.com/chavyleung/scripts/master/box/switcher/box.switcher.js, tag=Boxjs切换会话, img-url=https://raw.githubusercontent.com/Orz-3/task/master/box.png, enabled=false",
 " 0 2 */12 * * * https://raw.githubusercontent.com/NobyDa/Script/master/JD-DailyBonus/JD_DailyBonus.js, tag=京东多合一签到, img-url=https://raw.githubusercontent.com/Orz-3/task/master/jd.png, enabled=true",
 " 20 13 * * 6 https://gitee.com/lxk0301/jd_scripts/raw/master/jd_get_share_code.js, tag=获取互助码, img-url=https://raw.githubusercontent.com/Orz-3/task/master/jd.png, enabled=true",
 " 5,25,55 23 * * * https://gitee.com/lxk0301/jd_scripts/raw/master/jd_unbind.js, tag=注销京东会员卡, img-url= https://raw.githubusercontent.com/58xinian/icon/master/jd_unbind.png, enabled=true",
