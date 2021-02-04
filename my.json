@@ -13,7 +13,7 @@
 " 3 0 * * * https://raw.githubusercontent.com/chavyleung/scripts/master/neteasemusic/quanx/neteasemusic.js, tag=网易云音乐, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Netease.png, enabled=true",
 " 8 0 * * * https://raw.githubusercontent.com/chavyleung/scripts/master/10010/10010.js, tag=中国联通, img-url=https://raw.githubusercontent.com/Orz-3/task/master/10010.png, enabled=true",
 " 9 0 * * * https://raw.githubusercontent.com/chavyleung/scripts/master/10086/10086.js, tag=中国移动, img-url=https://raw.githubusercontent.com/Orz-3/task/master/10086.png, enabled=true",
-“ 15 19 * * * https://raw.githubusercontent.com/betakernel/myQuantumultX/main/xmSports.js, tag=小米运动, img-url=https://raw.githubusercontent.com/ChuheGit/1/main/QuantumultX/Gallery/API-Icon/xmSports.png, enabled=true”,
+" 15 19 * * * https://raw.githubusercontent.com/betakernel/myQuantumultX/main/xmSports.js, tag=小米运动, img-url=https://raw.githubusercontent.com/ChuheGit/1/main/QuantumultX/Gallery/API-Icon/xmSports.png, enabled=true",
 
 ]
 }
