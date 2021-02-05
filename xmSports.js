@@ -37,7 +37,7 @@ const headers = {
 }
 let login_token = '';
 //需要修改的运动步数波动范围，脚本默认修改步数范围为1w9到2w5
-const step = randomFriendPin($.getdata('xmMinStep')*1 || 38000, $.getdata('xmMaxStep')*1 || 43000);
+const step = randomFriendPin($.getdata('xmMinStep')*1 || 28000, $.getdata('xmMaxStep')*1 || 35000);
 function getToken() {
   if ($response.body) {
     const body = JSON.parse($response.body);
