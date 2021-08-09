@@ -143,7 +143,7 @@ async function bean() {
   let start = new Date( year + "-" + month + "-01 00:00:00" ).getTime()
   //结束时间 时间戳
   if( month == 12 ){
-  	 //十二月的时候进位，这里直接用加减法算了  
+  	 //十二月的时候进位，这里直接用加减法算了
   	 //也可以用 time.setMonth( month + 1 )去计算并获取结束时间的月份和年份
 	month = 0;
 	year += 1;
