@@ -11,11 +11,11 @@
 " 9 0 * * * https://raw.githubusercontent.com/chavyleung/scripts/master/10086/10086.js, tag=中国移动, img-url=https://raw.githubusercontent.com/Orz-3/task/master/10086.png, enabled=true",
 " 15 19 * * * https://raw.githubusercontent.com/betakernel/myQuantumultX/main/js/xmSports.js, tag=运动, img-url=https://raw.githubusercontent.com/ChuheGit/1/main/QuantumultX/Gallery/API-Icon/xmSports.png, enabled=true",
 " 1 9 * * * https://raw.githubusercontent.com/dompling/Script/master/historyToday/index.js, tag=历史上的今天, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/historyToday.png, enabled=true",
-"*/14 5-23 * * * https://raw.githubusercontent.com/Sunert/Script/master/Task/youth.js, tag=Sunert中青看点极速版 , img-url=https://raw.githubusercontent.com/ChuheGit/1/main/QuantumultX/Gallery/API-Icon/youth.png",
-"20 5 10 * * * https://raw.githubusercontent.com/Sunert/Script/master/Task/youth_gain.js, tag=Sunert中青看点浏览赚 , img-url=https://raw.githubusercontent.com/ChuheGit/1/main/QuantumultX/Gallery/API-Icon/youth_gain.png",
-"35 */30 */2 * * * https://raw.githubusercontent.com/Sunert/Script/master/Task/Youth_Read.js, tag=Sunert中青看点阅读 , img-url=https://raw.githubusercontent.com/ChuheGit/1/main/QuantumultX/Gallery/API-Icon/Youth_Read.png",
- "8/30 * 1-6 * * * https://raw.githubusercontent.com/ztxtop/x/main/zqread.js, tag=ztxtop中青阅读 , img-url=https://raw.githubusercontent.com/Orz-3/task/master/youth.png",
- "5/30 * * * * https://raw.githubusercontent.com/ztxtop/x/main/youth.js, tag=ztxtop中青签到、宝箱 , img-url=https://raw.githubusercontent.com/Orz-3/task/master/youth.png",
- "30 6 * * * https://raw.githubusercontent.com/ztxtop/x/main/youth_banner.js, tag=ztxtop中青看看赚 , img-url=https://raw.githubusercontent.com/Orz-3/task/master/youth.png",
+" */14 5-23 * * * https://raw.githubusercontent.com/Sunert/Script/master/Task/youth.js, tag=Sunert中青看点极速版, img-url=https://raw.githubusercontent.com/ChuheGit/1/main/QuantumultX/Gallery/API-Icon/youth.png",
+" 20 5 10 * * * https://raw.githubusercontent.com/Sunert/Script/master/Task/youth_gain.js, tag=Sunert中青看点浏览赚, img-url=https://raw.githubusercontent.com/ChuheGit/1/main/QuantumultX/Gallery/API-Icon/youth_gain.png",
+" 35 */30 */2 * * * https://raw.githubusercontent.com/Sunert/Script/master/Task/Youth_Read.js, tag=Sunert中青看点阅读, img-url=https://raw.githubusercontent.com/ChuheGit/1/main/QuantumultX/Gallery/API-Icon/Youth_Read.png",
+" 8/30 * 1-6 * * * https://raw.githubusercontent.com/ztxtop/x/main/zqread.js, tag=ztxtop中青阅读, img-url=https://raw.githubusercontent.com/Orz-3/task/master/youth.png",
+" 5/30 * * * * https://raw.githubusercontent.com/ztxtop/x/main/youth.js, tag=ztxtop中青签到、宝箱, img-url=https://raw.githubusercontent.com/Orz-3/task/master/youth.png",
+" 30 6 * * * https://raw.githubusercontent.com/ztxtop/x/main/youth_banner.js, tag=ztxtop中青看看赚, img-url=https://raw.githubusercontent.com/Orz-3/task/master/youth.png",
 ]
 }
