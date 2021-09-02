@@ -4,6 +4,7 @@
   "task": [
 " 0 12 * * * https://raw.githubusercontent.com/chavyleung/scripts/master/box/switcher/box.switcher.js, tag=Boxjs切换会话, img-url=https://raw.githubusercontent.com/Orz-3/task/master/box.png, enabled=false",
 " 0 2 */12 * * * https://raw.githubusercontent.com/NobyDa/Script/master/JD-DailyBonus/JD_DailyBonus.js, tag=京东多合一签到, img-url=https://raw.githubusercontent.com/Orz-3/task/master/jd.png, enabled=true",
+" 5 1,7,13,19,23 * * * https://raw.githubusercontent.com/shufflewzc/faker2/main/jd_cleancart.js, tag=清空购物车, img-url=https://raw.githubusercontent.com/Orz-3/task/master/jd.png, enabled=true",
 " 3 0 * * * https://raw.githubusercontent.com/chavyleung/scripts/master/neteasemusic/quanx/neteasemusic.js, tag=网易云音乐, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Netease.png, enabled=true",
 " 15 19 * * * https://raw.githubusercontent.com/betakernel/myQuantumultX/main/js/xmSports.js, tag=运动, img-url=https://raw.githubusercontent.com/ChuheGit/1/main/QuantumultX/Gallery/API-Icon/xmSports.png, enabled=true",
 " 1 9 * * * https://raw.githubusercontent.com/dompling/Script/master/historyToday/index.js, tag=历史上的今天, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/historyToday.png, enabled=true",
