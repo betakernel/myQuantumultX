@@ -35,7 +35,7 @@ pin3@&@不清空👉该pin不清空
 防止没指定的账号购物车全清空
 
 */
-let jdSignUrl = "https://jd.smiek.tk/jdcleancatr_21102717" // 算法url
+let jdSignUrl = "https://api.jds.codes/sign" // 算法url
 let cleancartRun = 'true'
 let cleancartProducts = '*@&@机油,火花塞,滤清器,刹车,电瓶,牙刷,沐浴,ASICS,Mizuno,数据,眼镜,书,充电,MFi'
 
