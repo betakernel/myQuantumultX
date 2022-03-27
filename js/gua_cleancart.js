@@ -37,7 +37,7 @@ pin3@&@不清空👉该pin不清空
 */
 let jdSignUrl = "https://api.jds.codes/sign" // 算法url
 let cleancartRun = 'true'
-let cleancartProducts = '*@&@机油,火花塞,滤清器,刹车,电瓶,牙刷,沐浴,ASICS,Mizuno,数据,眼镜,书,充电,MFi'
+let cleancartProducts = '*@&@机油,火花塞,滤清器,刹车,电瓶,牙刷,沐浴,ASICS,Mizuno,数据,眼镜,书,充电,MFi,笔记本'
 
 const $ = new Env('清空购物车');
 const jdCookieNode = $.isNode() ? require('./jdCookie.js') : '';
